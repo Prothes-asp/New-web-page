@@ -1,0 +1,1 @@
+window.alert("Wellcome for visiting my page");

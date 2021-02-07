@@ -1,0 +1,152 @@
+.MainDiv{
+	height:820px;
+	width:100%;
+}
+.Headder{
+	height:100px;
+	width:100%;
+	background-color:#808080;	
+}
+.MainBody{
+	height:600px;
+	width:100%;
+	background-color:#708090;	
+}
+.Footer{
+	height:100px;
+	width:100%;
+	background-color:blue;		
+}
+.Headinlogo{
+	height:100px;
+	width:10%;
+	float:left;
+}
+.HeadinMenu{
+	height:30px;
+	width:35%;
+	float:right;
+	margin-top:70px;	
+}
+.part1{
+	height:600px;
+	width:30%;
+	background-color:#708090;
+	float:left;
+}
+.part2{
+	height:300px;
+	width:70%;
+	background-color:#708090;
+	float:right;
+}
+.part3{
+	height:300px;
+	width:70%;
+	background-color:#708090;
+	float:right;
+}
+.partin1{
+	height:300px;
+	width:50%;
+	background-color:#708090;
+	float:left;
+}
+.partin2{
+	height:300px;
+	width:50%;
+	background-color:#708090;
+	float:right;	
+}
+img{
+	height:100px;
+	width:90%;
+    filter:brightness(50%);
+}
+.home{
+	text-decoration:none;
+	font-family:Impact;
+}
+.menu{
+	text-decoration:none;
+	font-family:Impact;
+}
+.rgstr{
+	text-decoration:none;
+	font-family:Impact;
+}
+.cntct{
+	text-decoration:none;
+	font-family:Impact;	
+}
+.marqu{
+   height:20px;
+   width:100%;
+   background-color:white;
+   color:red;
+   font-weight:bold;
+}
+dt{
+	font-weight:bold;
+}
+dd{
+	text-align:justify;
+	text-indent:70px;
+}
+.pragraph1{
+	text-align:justify;
+	text-indent:50px;
+}
+.part2in1{
+	height:300px;
+	width:50%;
+	float:left;	
+}
+.pragraph2{
+	text-align:justify;	
+	margin-top:31px;
+	line-height:15px;
+}
+.part2in2{
+	height:300px;
+	width:50%;
+	float:right;
+	margin-top:15px;
+}
+.www{
+	text-decoration:none;
+}
+.last{
+	text-align:justify;	
+	line-height:16px;
+}
+.figurecp{
+	height:70px;
+}
+.tbl{
+	border:2px solid black;
+    text-align:center;
+    margin-left:150px;
+    width:250px;
+}
+.aspsps{
+	text-align:justify;		
+}
+.capton{
+	font-weight:bold;
+}
+.vdotag{
+	height:50px;
+	width:100px;
+	float:right;
+}
+h4{
+	margin-left:30px;
+}
+.linktag{
+	height:190px;
+	margin-left:100px;
+}
+.link1{
+	text-decoration:none;
+}
